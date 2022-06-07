@@ -1,0 +1,21 @@
+Cliente: Leandro
+Sn: 665365
+Router: drdzsrg3663
+Mac: 
+Equipamento estado em condi��es: sim
+Dual band: Funcional
+Unidade liga: Sim
+Lan: Funcional
+07/06/2022, 23:00:05
+----------------
+Cliente: Hugo
+Sn: 2+556
+Router: wifi55184
+Mac: mac5f5f
+Equipamento estado em condi��es: sim
+ormatou o equipamento: sim
+Dual band: Funcional
+Unidade liga: Sim
+Lan: Funcional
+07/06/2022, 23:05:15
+----------------
